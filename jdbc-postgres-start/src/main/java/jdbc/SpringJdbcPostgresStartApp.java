@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class SpringJdbcStartApplication {
+public class SpringJdbcPostgresStartApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringJdbcStartApplication.class, args);
+        SpringApplication.run(SpringJdbcPostgresStartApp.class, args);
     }
 
 }

@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 
 @SpringBootTest
-class SpringJdbcStartApplicationIT {
+class SpringJdbcH2StartAppIT {
 
     @Test
     @Disabled
